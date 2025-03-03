@@ -1,0 +1,10 @@
+langchain
+langchain_openai
+langchain_community
+streamlit
+python-dotenv
+langchain-groq
+langchain-ollama
+sentence-transformers
+bs4
+lancedb
